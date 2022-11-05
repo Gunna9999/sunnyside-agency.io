@@ -273,7 +273,7 @@ nav h4 {
 }
 
 
-@media (max-width:375px) {
+@media only screen and (max-width: 600px) {
     .head-img {
         background-image: url(./images/image-header.jpg);
         background-position: center;
